@@ -6,7 +6,7 @@
 <div class="flex flex-col md:flex-row h-screen">
     <div class="w-full h-1/4 md:h-auto md:w-1/4 bg-blue-500 md:bg-[url('https://img.freepik.com/free-vector/abstract-background-concept_23-2148483758.jpg')] bg-cover bg-center relative">
       <div class="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center">
-        <h1 class="text-white text-3xl md:text-4xl font-bold">Welcome!</h1>
+        <h1 class="text-white text-3xl md:text-4xl font-bold">Welcome Back!</h1>
       </div>
     </div>
     <div class="w-full h-3/4 md:h-auto md:w-3/4 flex items-center justify-center p-4 md:p-8 bg-gray-100">
